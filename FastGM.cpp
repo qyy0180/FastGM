@@ -1,3 +1,8 @@
+/*
+The code can be further optimized for speed with bit packing and faster random generators.
+*/
+
+
 #include <time.h>
 #include <iostream>
 #include <string>
